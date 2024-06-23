@@ -9,8 +9,8 @@ html, body {
     background-color: #000;
     overflow: hidden;
     
-    font-family: "Cormorant Garamond", serif;
-    font-weight: 200;
+    font-family: "Montserrat", sans-serif;    
+    font-weight: 400;
     font-style: normal;
     text-transform: uppercase;
 
@@ -22,10 +22,10 @@ html, body {
     
     pointer-events: none;
 
-    font-size: 6em;
+    font-size: 5em;
 
     -webkit-text-stroke: 1.6px #fff;
-     color: #000;
+    color: #000;
     transition: transform 0.1s linear;
 }
 
